@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/youne/OneDrive/Desktop/Sketchs/itran/build",
+  "command": "C:\\Users\\youne\\OneDrive\\Desktop\\mingw64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\itran.dir\\src\\main.cpp.obj -c C:\\Users\\youne\\OneDrive\\Desktop\\Sketchs\\itran\\src\\main.cpp",
+  "file": "C:/Users/youne/OneDrive/Desktop/Sketchs/itran/src/main.cpp",
+  "output": "CMakeFiles/itran.dir/src/main.cpp.obj"
+}
+]
